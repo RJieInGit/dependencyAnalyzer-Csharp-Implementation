@@ -1,0 +1,1 @@
+devenv pj4RemoteAnalysis.sln /ReBuild

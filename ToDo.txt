@@ -1,0 +1,13 @@
+ ToDo
+======
+4. Implement remote up button event handler
+5. Implement server action to spawn and run code analysis
+6. Implement client button and handler to send message for code analysis
+
+ Done
+======
+1. Add comm prototype
+2. Modifiy message class to suit this application - perhaps no change
+3. Build RemoteFileMgr that uses messaging to get filenames and directories
+   - Note that this should not break anything in the Navigator since it
+     uses the IFileMgr interface
